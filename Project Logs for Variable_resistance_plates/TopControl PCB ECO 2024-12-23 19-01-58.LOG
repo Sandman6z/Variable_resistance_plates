@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=LEDIndicate Pin=LED?-2
+Added Pin To Net: NetName=VCC5V0_SYS Pin=R?-1
+Added Pin To Net: NetName=VCC5V0_SYS Pin=R?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-2
+Added Net: Name=NetLED?_1
+Add Net: Net with name "NetLED?_1" already exists
+Added Member To Class: ClassName=MCU Member=Component C? 100nF ㊣10% 50V X7R
+Added Member To Class: ClassName=MCU Member=Component C? 10pF ㊣5%_X7R
+Added Member To Class: ClassName=MCU Member=Component C? 10pF ㊣5%_X7R
+Added Member To Class: ClassName=MCU Member=Component C? 4.7uF ㊣10% 10V X5R
+Added Member To Class: ClassName=Relay Member=Component K? G6K-2F-Y-TR-DC3
+Added Member To Class: ClassName=MCU Member=Component LED? GREEN
+Added Member To Class: ClassName=MCU Member=Component R? 10K次 ㊣1% 62.5mW
+Added Member To Class: ClassName=MCU Member=Component R? 10K次 ㊣1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 22次 ㊣1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 22次 ㊣1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 10K次 ㊣1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 5.1k次 ㊣1% 62.5mW

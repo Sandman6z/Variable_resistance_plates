@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=IC? Old Footprint=SOT229P700X180-4N New Footprint=SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR
+Add Net: Net with name "NetLED?_1" already exists
+Added Member To Class: ClassName=MCU Member=Component C? 10pF ㊣5%_X7R
+Added Member To Class: ClassName=MCU Member=Component C? 100nF ㊣10% 50V X7R
+Added Member To Class: ClassName=MCU Member=Component C? 4.7uF ㊣10% 10V X5R
+Added Member To Class: ClassName=MCU Member=Component C? 10pF ㊣5%_X7R
+Added Member To Class: ClassName=Power Member=Component C? 4.7uF ㊣10% 10V X5R
+Added Member To Class: ClassName=Relay Member=Component K? G6K-2F-Y-TR-DC3
+Added Member To Class: ClassName=MCU Member=Component LED? GREEN
+Added Member To Class: ClassName=MCU Member=Component R? 10K次 ㊣1% 62.5mW
+Added Member To Class: ClassName=MCU Member=Component R? 10K次 ㊣1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 10K次 ㊣1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 22次 ㊣1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 22次 ㊣1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 5.1k次 ㊣1% 62.5mW

@@ -1,0 +1,24 @@
+Added Component: Designator=J?(JST_PH 2.00-5)
+Add component (AddParameter): Name = "制造商"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "名称"; Value = "插座2针，2.0间距"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版本"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "物料编号"; Value = "B5B-PH-K-S"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3V3_SYS Pin=J?-1
+Added Pin To Net: NetName=SWCLK Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=SWDIO Pin=J?-4
+Added Pin To Net: NetName=RESET Pin=J?-5
+Add Net: Net with name "NetLED?_1" already exists
+Added Member To Class: ClassName=MCU Member=Component C? 100nF ±10% 50V X7R
+Added Member To Class: ClassName=MCU Member=Component C? 10pF ±5%_X7R
+Added Member To Class: ClassName=MCU Member=Component C? 10pF ±5%_X7R
+Added Member To Class: ClassName=MCU Member=Component C? 4.7uF ±10% 10V X5R
+Added Member To Class: ClassName=Port Member=Component J? NC
+Added Member To Class: ClassName=Relay Member=Component K? G6K-2F-Y-TR-DC3
+Added Member To Class: ClassName=MCU Member=Component LED? GREEN
+Added Member To Class: ClassName=MCU Member=Component R? 10kΩ ±1% 100mW
+Added Member To Class: ClassName=MCU Member=Component R? 10KΩ ±1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 22Ω ±1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 5.1kΩ ±1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 22Ω ±1% 62.5mW
+Added Member To Class: ClassName=Port Member=Component R? 10KΩ ±1% 62.5mW

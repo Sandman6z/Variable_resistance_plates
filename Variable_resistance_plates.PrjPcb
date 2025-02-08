@@ -118,6 +118,57 @@ GenerateClassCluster=0
 DocumentUniqueId=IIBHLPMA
 
 [Document5]
+DocumentPath=All.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PZAUDCJD
+
+[Document6]
+DocumentPath=Bottom_Port.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FEGFWPOP
+
+[Document7]
+DocumentPath=ResBottom.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MYKDBXAB
+
+[Document8]
 DocumentPath=TopControl.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIGINTQI
 
-[Document6]
+[Document9]
 DocumentPath=BottomResistor.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNMPCFAY
 
-[Document7]
+[Document10]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZBKNAVLC
 
-[Document8]
+[Document11]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PLEIJOKD
 
-[Document9]
+[Document12]
 DocumentPath=Port.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEKLTKRT
 
-[Document10]
+[Document13]
 DocumentPath=Relay.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -863,6 +914,7 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+Type151=1
 
 [Difference Levels]
 Type1=1
@@ -946,6 +998,7 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+Type82=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1102,6 +1155,13 @@ Type151=2
 Type152=1
 Type153=1
 Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

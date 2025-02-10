@@ -270,6 +270,50 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JQJOJJCG
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Variable_resistance_plates\Bottom_Port.NET
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Variable_resistance_plates\ControlTop.NET
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Variable_resistance_plates\ControlTop.PRT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Variable_resistance_plates\MCU.NET
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Variable_resistance_plates\MCU.PRT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Variable_resistance_plates\Net Status - BottomResistor.html
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Variable_resistance_plates\Port.NET
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Variable_resistance_plates\Power.NET
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Variable_resistance_plates\Relay.NET
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Variable_resistance_plates\ResBottom.NET
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Variable_resistance_plates\Variable_resistance_plates.NET
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -330,6 +374,8 @@ OutputName9=PADS ASCII Netlist
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+Configuration9_Name1=ForceUpdateSettings
+Configuration9_Item1=False
 OutputType10=Pcad
 OutputName10=Pcad for PCB
 OutputDocumentPath10=
@@ -340,6 +386,8 @@ OutputName11=PCAD Netlist
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+Configuration11_Name1=ForceUpdateSettings
+Configuration11_Item1=False
 OutputType12=PCADnltNetlist
 OutputName12=PCADnlt Netlist
 OutputDocumentPath12=
